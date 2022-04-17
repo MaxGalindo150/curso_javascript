@@ -20,6 +20,7 @@
                 Medida del lado del cuadrado:
             </label>
             <input id="inputCuadrado" type="number">
+            
             <button type="button" onclick="calcularPerimetroCuadrado()">
                 Calcular el perímetro
             </button>
@@ -35,14 +36,23 @@
                 Medida del lado 1 del triangulo:
             </label>
             <input id="inputTrianguloLado1" type="number">
+            
             <label for="inputTrianguloLado2">
                 Medida del lado 2 del triangulo:
             </label>
             <input id="inputTrianguloLado2" type="number">
+            
             <label for="inputTrianguloLadoBase">
                 Medida del lado base del triangulo:
             </label>
             <input id="inputTrianguloLadoBase" type="number">
+            
+            <label for="inputTrianguloAlt">
+                Medida de la altura:
+            </label>
+            <input id="inputTrianguloAlt" type="number">
+            
+
             <button type="button" onclick="calcularPerimetroTriangulo()">
                 Calcular el perímetro
             </button>
@@ -52,6 +62,21 @@
             </button>
         </form>
 
+        <h2>Calcula el área y perímetro de un circulo</h2>
+        <form>
+            <label for="inputradio">
+                Medida del radio:
+            </label>
+            <input id="inputradio" type="number">
+        
+            <button type="button" onclick="calcularPerimetroCirculo()">
+                Calcular el perímetro
+            </button>
+            
+            <button type="button" onclick="calcularAreaCirculo()">
+                Calcular el área
+            </button>
+        </form>
     </section>
     <script src="./figuras.js"></script>
 </body>
