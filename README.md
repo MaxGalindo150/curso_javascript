@@ -1,26 +1,26 @@
-# curso_javascript
+# JavaScript Course
 
 ...
 
-## Taller 1: figuras geométricas
 
-- Primer paso: definir las formulas
-- Segundo paso: implementar las formulas en JavaScript
-- Tercer paso: crear funciones
-- Cuarto paso: integrar JavaScript con html
- 
- ## Taller 2: Porcentajes y descuentos
- 
-- Primer paso: definir las formulas
-- Segundo paso: implementar las formulas en JavaScript
-- Tercer paso: crear funciones
-- Cuarto paso: integrar JavaScript con html
+## Workshop 1: Geometric Figures
 
-## Taller 3: Media, mediana y moda
- 
-- Primer paso: definir las formulas
-- Segundo paso: implementar las formulas en JavaScript
-- Tercer paso: crear funciones
-- Cuarto paso: integrar JavaScript con html
+- First step: define the formulas
+- Second step: implement the formulas in JavaScript
+- Third step: create functions
+- Fourth step: integrate JavaScript with HTML
 
+## Workshop 2: Percentages and Discounts
+
+- First step: define the formulas
+- Second step: implement the formulas in JavaScript
+- Third step: create functions
+- Fourth step: integrate JavaScript with HTML
+
+## Workshop 3: Mean, Median, and Mode
+
+- First step: define the formulas
+- Second step: implement the formulas in JavaScript
+- Third step: create functions
+- Fourth step: integrate JavaScript with HTML
  
